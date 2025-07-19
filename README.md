@@ -39,10 +39,46 @@ Here are some ideas to get you started:
 ###
 -->
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
+
+<div align="center" >
+  <img src="https://img.shields.io/static/v1?message=Machine%20Learning&logo=$&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Machine Leaarning"  />
+  <img src="https://img.shields.io/static/v1?message=Artificial%20Intelligence&logo=$&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Artificial Intelligence"  />
+  <img src="https://img.shields.io/static/v1?message=Deep%20Learning&logo=$&label=&color=8A2BE2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Deep Learning"  />
+  <img src="https://img.shields.io/static/v1?message=RNN&logo=$&label=&color=ESE624&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=CNN&logo=$&label=&color=109743&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=LSTM&logo=$&label=&color=02CBAB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=GenAI&logo=$&label=&color=FBAA3F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Agentic%20AI&logo=$&label=&color=EF9EAC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=NLP&logo=$&label=&color=D956E8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=LLM&logo=$&label=&color=1A54A8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+
+  <br>
+  <img src="https://img.shields.io/static/v1?message=Numpy&logo=numpy&label=&color=FFCF1B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Pandas&logo=pandas&label=&color=00FFED&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Scikit-Learn&logo=scikitlearn&label=&color=F6072F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Keras&logo=keras&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Tenserflow&logo=tensorflow&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Hugging%20Face&logo=$&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=MediaPipe&logo=$&label=&color=730062&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=C,%20C%20Plus%20Plus&logo=cplusplus&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=SQL&logo=mySQL&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=NoSqL&logo=nosql&label=&color=3499FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Android&logo=android&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Javascript&logo=Javascript&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Arduino&logo=arduino&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=IoT&logo=IoT&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+</div>
 
 ###
-
+<!--
 <div align="left" background-color="white">
   Data Science, ML & AI: 
   <img width="12" />
@@ -107,10 +143,10 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino logo"  />
   <img width="12" />
 </div>
-
+-->
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
