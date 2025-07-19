@@ -19,9 +19,15 @@ Here are some ideas to get you started:
 
 <div align="center" >
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SahilKumar777&" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/sahil-kumar-nitd">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SahilKumar777&" />
 </div>
 
@@ -52,29 +58,29 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=Agentic%20AI&logo=$&label=&color=EF9EAC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
   <img src="https://img.shields.io/static/v1?message=NLP&logo=$&label=&color=D956E8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
   <img src="https://img.shields.io/static/v1?message=LLM&logo=$&label=&color=1A54A8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-
-  <br>
   <img src="https://img.shields.io/static/v1?message=Numpy&logo=numpy&label=&color=FFCF1B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
   <img src="https://img.shields.io/static/v1?message=Pandas&logo=pandas&label=&color=00FFED&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
   <img src="https://img.shields.io/static/v1?message=Scikit-Learn&logo=scikitlearn&label=&color=F6072F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
   <img src="https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=Keras&logo=keras&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=Tenserflow&logo=tensorflow&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=Hugging%20Face&logo=$&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  
+  <img src="https://img.shields.io/static/v1?message=Keras&logo=keras&label=&color=00B8BA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Tenserflow&logo=tensorflow&label=&color=FF335E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Hugging%20Face&logo=$&label=&color=FF18BB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
   <img src="https://img.shields.io/static/v1?message=MediaPipe&logo=$&label=&color=730062&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=C,%20C%20Plus%20Plus&logo=cplusplus&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=SQL&logo=mySQL&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=NoSqL&logo=nosql&label=&color=3499FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=Android&logo=android&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=Javascript&logo=Javascript&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=ACF255&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=C%20Plus%20Plus&logo=cplusplus&label=&color=AC003B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=462571&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="jAVA"  />
+  <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=47FDC4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=SQL&logo=mySQL&label=&color=E45DOC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=NoSqL&logo=nosql&label=&color=C1596F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=5E0B96&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Android&logo=android&label=&color=ESE624&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E45D0C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=17FDC4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=Javascript&logo=Javascript&label=&color=8A2BE2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
   <img src="https://img.shields.io/static/v1?message=Arduino&logo=arduino&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
-  <img src="https://img.shields.io/static/v1?message=IoT&logo=IoT&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
+  <img src="https://img.shields.io/static/v1?message=IoT&logo=IoT&label=&color=5EOB96&logoColor=white&labelColor=&style=for-the-badge" height="25" alt=""  />
 </div>
 
 ###
