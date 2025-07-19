@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"">
-  <img src="Data/SahilBanner.jpg" height="100%" alt="Header"/>
+  <img src="Data/SahilBanner.png" height="100%" alt="Header"/>
 </div>
 
 <div align="center" >
